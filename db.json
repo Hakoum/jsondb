@@ -1,0 +1,20 @@
+{
+    "marg3": [
+        {
+            "id": 123456789011,
+            "username":"تامر حكوم",
+            "brandhid": 201,
+            "mantka": 1,
+            "yaumea": 1,
+            "hesab": 340,
+            "far3e": 2
+        }
+    ],
+    "userinvoice": [
+        {
+            "quaahalya": 2300,
+            "monthisdar": 2,
+            "cost": 344
+        }
+    ]
+}
